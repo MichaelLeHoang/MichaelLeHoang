@@ -5,22 +5,13 @@
 ## 🚀 My Tech Stack
 
 **AI / ML Tools:**
-- Hugging Face 🤗
-- Jupyter Notebook 📒
-- Pandas, NumPy, Scikit-learn 🧪
-- PyTorch 🔥
+- Hugging Face, Jupyter Notebook, Pandas, NumPy, Scikit-learn, PyTorch 🔥
 
 **Programming Languages:**
-- Python 🐍
-- C / C++ 💻
-- Bash 🖥️
-- JavaScript / TypeScript 🌐
-- PostgreSQL 🐘
+- Python, C / C++, Bash, JavaScript / TypeScript, PostgreSQL 🐘
 
 **Frameworks & Technologies:**
-- React ⚛️, Next.js, Node.js
-- Supabase, Postgres
-- Git
+- React , Next.js, Node.js, Supabase, Postgres, Git
 
 ## 🌱 Currently Learning
 I'm exploring ways to combine AI with web technologies, and diving deeper into reinforcement learning and full-stack development.
