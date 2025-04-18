@@ -1,6 +1,6 @@
 #  Hi! I'm Michael Le 👋
 
-🎓 I'm currently pursuing a major in **Statistics** at the **University of Waterloo**, with a strong passion for **Machine Learning** and its real-world applications.
+🎓 I'm currently pursuing a major in **Statistics** at the **University of Waterloo**, with a strong passion for **Machine Learning** and its real-world applications. <br>
 🔭 I'm actively seeking Fall 2025 MLE/Data Analyst positions in US/Canada and open to connections on [LinkedIn](https://www.linkedin.com/in/michaellehoang/).
 ## 🚀 My Tech Stack
 
@@ -25,6 +25,6 @@ Check out my personal site where I showcase projects and more:
 When I’m not coding, you’ll find me:
 - Playing pool 🎱
 - Calisthenics 💪 and Soccer ⚽
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him 😄
 
 
