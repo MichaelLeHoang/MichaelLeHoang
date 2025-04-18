@@ -26,11 +26,11 @@
 I'm exploring ways to combine AI with web technologies, and diving deeper into reinforcement learning and full-stack development.
 
 ## Learn More
-## 💻 Personal Projects
-Check out my personal site where I showcase projects in AI, creative media, and more:  
+### Personal Projects
+Check out my personal site 💻 where I showcase projects in AI, creative media, and more:  
 🔗 [michael-le.vercel.app](https://michael-le.vercel.app/)
 
-## 🎱 Outside of Tech
+### Outside of Tech
 When I’m not coding, you’ll find me:
 - Playing pool 🎱
 - Practicing calisthenics 💪
