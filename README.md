@@ -17,14 +17,16 @@
 I'm exploring ways to combine AI with web technologies, and diving deeper into reinforcement learning and full-stack development.
 
 ## Learn More
-### 💻 Personal Projects
+- Pronouns: He/Him 😄
+
+### 💻 My Personal Site
 Check out my personal site where I showcase projects and more:  
 🔗 [michael-le.vercel.app](https://michael-le.vercel.app/)
 
 ### 🎮 Outside of Tech
 When I’m not coding, you’ll find me:
 - Playing pool 🎱
-- Calisthenics 💪 and Soccer ⚽
-- Pronouns: He/Him 😄
+- Practicing Calisthenics 💪 and Soccer ⚽
+
 
 
