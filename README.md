@@ -26,6 +26,7 @@ Check out my personal site where I showcase projects and more:
 When I’m not coding, you’ll find me:
 - Playing pool 🎱
 - Practicing Calisthenics 💪 and Soccer ⚽
+- Giving exquisite haircuts 💇🏻‍♂️
 
 
 
