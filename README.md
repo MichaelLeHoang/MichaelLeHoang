@@ -25,6 +25,7 @@
 ## 🌱 Currently Learning
 I'm exploring ways to combine AI with web technologies, and diving deeper into reinforcement learning and full-stack development.
 
+## Learn More
 ## 💻 Personal Projects
 Check out my personal site where I showcase projects in AI, creative media, and more:  
 🔗 [michael-le.vercel.app](https://michael-le.vercel.app/)
@@ -33,15 +34,6 @@ Check out my personal site where I showcase projects in AI, creative media, and 
 When I’m not coding, you’ll find me:
 - Playing pool 🎱
 - Practicing calisthenics 💪
+- 😄 Pronouns: He/Him
 
----
-
-Feel free to connect or explore my work!- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Hime
-- ⚡ Fun fact: ...
 
