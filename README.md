@@ -20,7 +20,7 @@ I'm exploring ways to combine AI with web technologies, and diving deeper into r
 
 ### 💻 My Personal Site
 Check out my personal site where I showcase projects and more:  
-🔗 [mywebsite.com](https://michael-le.vercel.app/)
+🔗 [mybeautifulwebsite.com](https://michael-le.vercel.app/)
 
 ### 🎮 Outside of Tech
 When I’m not coding, you’ll find me:
