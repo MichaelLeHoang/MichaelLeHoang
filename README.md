@@ -1,11 +1,11 @@
 #  Hi! I'm Michael Le 👋
 
 🎓 I'm currently pursuing a major in **Statistics** at the **University of Waterloo**, with a strong passion for **Machine Learning** and its real-world applications. <br>
-🔭 I'm actively seeking Fall 2025 MLE/Data Analyst positions in US/Canada and open to connections on [LinkedIn](https://www.linkedin.com/in/michaellehoang/).
+🔭 I'm actively seeking Winter 2027 MLE/Data Analyst/Engineer positions in US/Canada and open to connections on [LinkedIn](https://www.linkedin.com/in/michaellehoang/).
 ## 🚀 My Tech Stack
 
 **AI / ML Tools:**
-- Hugging Face, Jupyter Notebook, Pandas, NumPy, Scikit-learn, PyTorch 🔥
+- Langchain/ Langraph, Hugging Face, Jupyter Notebook, Pandas, NumPy, Scikit-learn, PyTorch 🔥
 
 **Programming Languages:**
 - Python, C / C++, Bash, JavaScript / TypeScript, PostgreSQL 🐘
